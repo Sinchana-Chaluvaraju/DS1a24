@@ -7,5 +7,16 @@ To use medical data to better understand and predict the presence of heart disea
 Early prediction of heart disease can save lives by allowing for preventative measures and timely medical intervention.
 ### Business Case: 
 Hospitals and health tech platforms could use predictive models to assist physicians in diagnosing heart disease more efficiently and accurately
-# Methodology
+## Methodology
 CRISP DM: Cross-Industry Standard Process for Data Mining
+## Dataset Introduction
+### Source: 
+UCI Machine Learning Repository
+### Dataset Size: 
+303 entries × 14 attributes (you uploaded the CSV al
+ready)
+#### • Target Variable: 
+target (1 = presence of heart disease, 0 = absence)
+#### • Variables include: 
+- Demographics (age, sex)– Health indicators (cholesterol, resting BP, etc.)
+- Diagnostic results (thal, ca, slope, cp, exang, etc.)
