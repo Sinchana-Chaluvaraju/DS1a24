@@ -13,8 +13,7 @@ CRISP DM: Cross-Industry Standard Process for Data Mining
 ### Source: 
 UCI Machine Learning Repository
 ### Dataset Size: 
-303 entries × 14 attributes (you uploaded the CSV al
-ready)
+303 entries × 14 attributes
 #### • Target Variable: 
 target (1 = presence of heart disease, 0 = absence)
 #### • Variables include: 
