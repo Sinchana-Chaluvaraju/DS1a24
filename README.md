@@ -1,5 +1,5 @@
 # DS1a24
-Data Science Project:To Understand and Predict Heart Disease
+Data Science Project: To Understand and Predict Heart Disease
 ## Objective
 ### Goal: 
 To use medical data to better understand and predict the presence of heart disease in patients.
